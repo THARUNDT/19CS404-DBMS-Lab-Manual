@@ -235,6 +235,4 @@ HAVING
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
 
-## Module Completion
 
-![image](https://github.com/user-attachments/assets/087ce1c1-c916-48ad-ab4f-9820f73de427)
