@@ -227,6 +227,7 @@ HAVING
 ```
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/ae2fb4d9-a575-426e-b39e-164865f194b3)
 
 
@@ -235,4 +236,5 @@ HAVING
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
 
 ## Module Completion
+
 ![image](https://github.com/user-attachments/assets/087ce1c1-c916-48ad-ab4f-9820f73de427)
